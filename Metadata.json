@@ -1,0 +1,20 @@
+{
+    "Author": "VirtualRW",
+    "ContentSize": 5864,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/find-endpoints-and-alert-wtih-email/master/Find%20Endpoints%20and%20Alert%20wtih%20e-mailv2.ps1",
+    "DownloadCount": 1481,
+    "Id": "Find-Endpoints-and-Alert-237007a1",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 558,
+    "RaterCount": 1,
+    "Rating": 4.0,
+    "ReleaseDate": "2013-10-17T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Update 2 for PowerShell 0.7.1\u00a0This script will search all your Azure subscriptions, identiry VMs and look for configured Endpoints. If Endpoints are found on VM it will write to a local file as well as send an e-mail with the server name and endpoint configuration.This script is",
+    "Title": "Find Endpoints and Alert wtih e-mail",
+    "UpdatedDate": "2013-11-30T00:00:00",
+    "Url": "https://github.com/azureautomation/find-endpoints-and-alert-wtih-email",
+    "UserTags": ""
+}
